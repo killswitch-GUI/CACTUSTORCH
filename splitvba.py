@@ -5,6 +5,7 @@ import string;
 import sys;
 import argparse;
 
+
 def banner():
 		with open('banner.txt', 'r') as f:
 			data = f.read()
